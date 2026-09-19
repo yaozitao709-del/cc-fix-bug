@@ -20,7 +20,7 @@ Windows PowerShell：
 git clone https://github.com/yaozitao709-del/cc-fix-bug.git "$env:USERPROFILE\.codex\skills\cc-fix-bug"
 ```
 
-私有仓库需要先配置 GitHub 身份验证。若目标目录已存在，请先保留原目录，避免覆盖已有 skill。自定义 Codex 技能目录的用户应调整目标路径。
+本仓库公开，任何人均可直接克隆，或[下载 ZIP](https://github.com/yaozitao709-del/cc-fix-bug/archive/refs/heads/main.zip)。若目标目录已存在，请先保留原目录，避免覆盖已有 skill。自定义 Codex 技能目录的用户应调整目标路径。
 
 重新打开 Codex 后，在对话中输入：
 
