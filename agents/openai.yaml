@@ -1,0 +1,4 @@
+interface:
+  display_name: "cc 修复bug"
+  short_description: "诊断并安全修复 CC Switch 的账号不存在与切换失败"
+  default_prompt: "使用 $cc-fix-bug 诊断并安全修复这台电脑上的 CC Switch 账号不存在或切换失败问题。"
